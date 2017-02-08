@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	}/* write your CSS here */
+p {
+	color: blue;
+	font-family: helvetica;
+	font-size: 16px;
+}
+
+ul {
+	background: yellow;
+}
+h2 {
+	font-color: green;
+	background-color: orange;
+}
+ol {
+	background-color: teal;
+}
